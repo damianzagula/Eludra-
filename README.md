@@ -1,2 +1,2 @@
-# Eludra-
+# eludra
 Mózg Polskiej Sztucznej Inteligencji 
