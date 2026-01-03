@@ -1,2 +1,1 @@
-# eludra
-Mózg Polskiej Sztucznej Inteligencji 
+index.html
